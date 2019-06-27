@@ -1,5 +1,4 @@
 # SQL Manipulation
-# Homework Assignment
 
 ## Installation Instructions
 
